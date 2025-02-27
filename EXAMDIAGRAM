@@ -310,13 +310,13 @@
             <mxPoint x="790" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pMBcrDjZCYkoSOVPJl6_-18" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pMBcrDjZCYkoSOVPJl6_-18" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;startSize=6;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="280" as="sourcePoint" />
             <mxPoint x="820" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pMBcrDjZCYkoSOVPJl6_-19" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;endSize=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pMBcrDjZCYkoSOVPJl6_-19" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;targetPerimeterSpacing=0;sourcePerimeterSpacing=0;endSize=0;startSize=10;jumpSize=6;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="50" as="sourcePoint" />
             <mxPoint x="780" y="280" as="targetPoint" />
