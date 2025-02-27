@@ -227,7 +227,7 @@
           <mxGeometry x="24" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LV9a4_QDQz8hKcj1CASh-76" value="QUESTION" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="550" y="120" width="160" height="86" as="geometry" />
+          <mxGeometry x="550" y="124" width="160" height="86" as="geometry" />
         </mxCell>
         <mxCell id="LV9a4_QDQz8hKcj1CASh-77" value="-" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;" parent="LV9a4_QDQz8hKcj1CASh-76" vertex="1">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
@@ -327,8 +327,8 @@
         </mxCell>
         <mxCell id="pMBcrDjZCYkoSOVPJl6_-23" value="" style="endArrow=block;html=1;rounded=0;endFill=0;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="LV9a4_QDQz8hKcj1CASh-77">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="780" y="160" as="sourcePoint" />
-            <mxPoint x="740" y="149" as="targetPoint" />
+            <mxPoint x="780" y="163" as="sourcePoint" />
+            <mxPoint x="730" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
