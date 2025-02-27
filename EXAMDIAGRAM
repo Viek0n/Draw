@@ -65,7 +65,9 @@
           <mxGeometry y="78" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LV9a4_QDQz8hKcj1CASh-7" value="ADMIN" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;container=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="51" y="458" width="131" height="84" as="geometry" />
+          <mxGeometry x="51" y="458" width="131" height="84" as="geometry">
+            <mxRectangle x="51" y="458" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LV9a4_QDQz8hKcj1CASh-8" value="-" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;container=0;" parent="LV9a4_QDQz8hKcj1CASh-7" vertex="1">
           <mxGeometry y="26" width="131" height="24" as="geometry" />
